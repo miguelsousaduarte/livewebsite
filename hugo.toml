@@ -1,0 +1,7 @@
+title = "Live Website"
+baseURL = "/"
+theme = "ananke"
+
+[caches]
+  [caches.images]
+  dir = ':cacheDir/images'

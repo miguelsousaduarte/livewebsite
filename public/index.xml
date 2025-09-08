@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Live Website</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Live Website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Sep 2025 15:16:09 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello</title>
-      <link>//localhost:1313/posts/hello/</link>
-      <pubDate>Mon, 08 Sep 2025 15:16:09 +0200</pubDate>
-      <guid>//localhost:1313/posts/hello/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

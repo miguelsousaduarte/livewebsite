@@ -13,6 +13,12 @@
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/cv/</loc>
+  </url><url>
+    <loc>//localhost:1313/research/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/teaching/</loc>
   </url>
 </urlset>

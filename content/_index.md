@@ -8,7 +8,7 @@ omit_header_text: false              # set to true to hide the big title over th
 
 <div class="cf pv3">
   <!-- Left column: intro text -->
-  <div class="fl w-75-l w-100 pr4-l">
+  <div class="fl w-60-l w-100 pr4-l">
 
 # Hej! 👋
 

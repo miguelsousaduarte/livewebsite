@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Live Website</title>
-    <link>/</link>
-    <description>Recent content on Live Website</description>
+    <title>Miguel Sousa Duarte</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Miguel Sousa Duarte</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Sep 2025 15:16:09 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>//localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 08 Sep 2025 15:16:09 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
